@@ -9,5 +9,10 @@
       "name": "knowledgeBase.app.jwtSecret",
       "type": "java.lang.String",
       "description": "Secret for generate token."
+    },
+    {
+      "name": "mail.confirm",
+      "type": "java.lang.String",
+      "description": "Endpoint for complete registration."
     }
   ] }
