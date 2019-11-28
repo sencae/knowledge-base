@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "knowledgeBase.app.jwtExpiration",
+      "type": "java.lang.String",
+      "description": "Time of token expiration."
+    },
+    {
+      "name": "knowledgeBase.app.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Secret for generate token."
+    }
+  ] }
